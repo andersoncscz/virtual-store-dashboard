@@ -1,0 +1,24 @@
+@import "../../CustomTheme.scss";
+
+.rc-menu-item, .rc-menu-submenu-title {
+  height: 50px;
+}
+.rc-menu-submenu-title {
+    display: flex !important;
+}
+.rc-menu-submenu-open, .rc-menu-submenu-open > .rc-menu-sub {
+  color: white !important;
+  background-color: #f8f9fa !important;
+}
+.rc-menu-item a, .rc-menu-submenu-title {
+  color: #343a40 
+}
+
+.rc-menu-item:hover, .rc-menu-item:hover a, .rc-menu-submenu-title:hover {
+  color: white !important;
+  background-color: $primary-dark !important;
+}
+
+.rc-menu-submenu-title > .rc-menu-submenu-arrow {
+    line-height: 2.2em !important;
+}
