@@ -1,4 +1,4 @@
-# Simple project using React (web), Flutter (mobile), Firebase as Backend.
+# Simple project using React, Flutter and Firebase as Backend.
 
 ### A Project Preview
 ![alt text](https://github.com/andersoncscz/virtual-store-dashboard/blob/master/preview/login.png)
