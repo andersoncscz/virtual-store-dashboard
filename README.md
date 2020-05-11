@@ -1,6 +1,6 @@
 # Simple project using React, Flutter and Firebase as Backend.
 
-### A Project Preview
+### Project Preview
 ![alt text](https://github.com/andersoncscz/virtual-store-dashboard/blob/master/preview/login.png)
 ![alt text](https://github.com/andersoncscz/virtual-store-dashboard/blob/master/preview/dashboard-1.png)
 ![alt text](https://github.com/andersoncscz/virtual-store-dashboard/blob/master/preview/form-products.png)
