@@ -14,7 +14,7 @@
     "firebase": "^6.3.4",
     "formik": "^1.5.8",
     "lodash": "^4.17.15",
-    "node-sass": "^4.12.0",
+    "node-sass": "^4.13.1",
     "rc-menu": "^7.4.23",
     "react": "^16.9.0",
     "react-animated-css": "^1.2.1",
