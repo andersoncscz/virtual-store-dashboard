@@ -34,7 +34,7 @@
     "react-sidebar": "^3.0.2",
     "react-toastify": "^5.3.2",
     "reactstrap": "^8.0.1",
-    "recharts": "^1.7.1",
+    "recharts": "^2.1.14",
     "redux": "^4.0.4",
     "redux-saga": "^1.0.5",
     "redux-thunk": "^2.3.0",
